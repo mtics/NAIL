@@ -1,6 +1,6 @@
 # NAIL
 
-> This project is the code of "**Incomplete multi-view weak-label learning with noisy features and imbalanced labels**"
+> This project is the code and the supplementary of "**Incomplete multi-view weak-label learning with noisy features and imbalanced labels**"
 
 
 ## Requirements
@@ -23,4 +23,4 @@ where `lambda`, `mu` and `subRatio` are three hyper-parameters.
 ## Contact
 
 - This project is free for academic usage. You can run it at your own risk.
-- For any other purposes, please contact Prof. Lu Sun ([sunlu1@shanghaitech.edu.cn](mailto:sunlu1@shanghaitech.edu.cn))
+- For any other purposes, please contact Mr. Zhiwei Li ([lizhw.cs@outlook.com](mailto:lizhw.cs@outlook.com))
